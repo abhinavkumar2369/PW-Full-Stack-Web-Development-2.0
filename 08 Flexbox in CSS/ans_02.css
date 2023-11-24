@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(154, 214, 255);
+    font-family: sans-serif;
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+    font: bold;
+}
+h4{
+    color: rgb(93, 93, 93);
+    text-align: center;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    padding:8px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.box{
+    background-color: #fff;
+    border-radius: 12px;
+    width: 370px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.box>img{
+    height: 250px;
+    width: 350px;
+}
+.name{
+    color:blueviolet;
+    font-weight: 750;
+}
+span{
+    display: block;
+}
+.bold{
+    font-weight: 700;
+}
