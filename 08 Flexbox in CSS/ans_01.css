@@ -1,0 +1,13 @@
+.main-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap ;
+    justify-content: space-around;
+}
+
+img{
+    margin-top:10px;
+    height: 300px;
+    width: 300px;
+    border: solid black;
+}
