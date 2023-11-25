@@ -1,0 +1,91 @@
+body{
+    font-family: sans-serif;
+    margin:0;
+}
+
+/* Navigation Bar */
+.nav-container{
+    padding:4px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid lightgray;
+    box-shadow: 2px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    
+}
+
+/* Gmail logo */
+.nav-container img{
+    height: 40px;
+    width: 40p;
+    padding: 0px 6px;
+}
+
+
+
+
+.login{
+    font-weight: 500;
+}
+/* nav link 1 */
+.nav-link-1{
+    color: #0080ff;
+    padding:8px 10px;
+    border-radius: 5px;
+}
+.nav-link-1:hover{
+    background-color: #c7c7c7;
+    padding:8px 10px;
+    border-radius: 5px;
+}
+
+
+/* nav link 2 */
+.nav-link-2{
+    color:#0080ff;
+    border: 1px lightgray;
+    border-radius: 5px;
+    padding:8px 10px;
+}
+
+
+/* nav link 3 */
+.nav-link-3{
+    color: whitesmoke;
+    border-radius: 5px;
+    background-color: #0080ff;
+    padding:8px 10px;
+}
+
+
+
+/* ---------- Main Container ------------ */
+
+.main-container{
+    display: flex;
+    flex-direction: row;
+    gap:100px;
+    justify-content: space-around;
+}
+
+.about{
+    width: 30%;
+    margin: auto;
+}
+
+
+.about span{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.content-image > img{
+    height: 650px;
+    width: 800px;
+}
