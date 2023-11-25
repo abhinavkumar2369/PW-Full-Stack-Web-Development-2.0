@@ -1,0 +1,44 @@
+.footer{
+    display: flex;
+    font-family: sans-serif;
+    justify-content: center;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(63, 63, 63);
+    color: white;
+    padding: 20px 0px;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 1300px;
+    width: 100%;
+}
+
+.section-1 .section-2 .section-3{
+    max-width: 30%;
+    width: 100%;
+}
+
+p{
+    padding: 5px;
+}
+
+
+hr{
+    position: relative;
+    top: -20px;
+    width: 150px;
+    margin-right: 50%;
+    
+}
+
+td{
+    width: 150px;
+    height: 50px;
+}
+
