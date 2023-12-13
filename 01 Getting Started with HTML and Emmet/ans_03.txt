@@ -1,0 +1,26 @@
+TAGS : 
+In web development, tags are used to define the structure and content of a webpage. Tags 
+are enclosed in angle brackets and provide instructons to the web browser on how to 
+display and interpret the content. Tags are usually paired with an opening tag and a closing 
+tag, with the content between them . 
+
+Example :  <p>This is a paragraph tag.</p> 
+
+
+ELEMENTS : 
+An element is made up of a combination of opening and closing tags along with the content 
+in between. Elements define the various parts of a webpage such as headings, paragraphs, 
+links, images, and more. Elements are the building blocks of HTML documents. 
+
+Example :   <h1>This is a heading element</h1> 
+            <p>This is a paragraph element containing some text.</p> 
+
+
+ATTRIBUTES: 
+Attributes provide additional information about an HTML element. They are added within 
+the opening tag of an element and are used to modify or customize the behavior, 
+appearance, or other characteristics of the element. Each attribute has a name and a value, 
+separated by an equal sign.
+
+Example :   “href” is an attribute in <a> tag .
+            “title” is an attribute in <p> tag .
