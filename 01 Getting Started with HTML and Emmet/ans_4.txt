@@ -1,0 +1,13 @@
+<p> :
+    The <p> tag in HTML is used to define paragraphs of text, creaƟng a block-level element 
+    that provides structure and spacing for content. 
+
+
+<img> : 
+    The <img> tag in HTML embeds images on webpages, using the 'src' attribute to specify the 
+    image source, enhancing visual content and user engagement. 
+
+
+<table>: 
+    The <table> tag in HTML arranges content into rows and columns, facilitating the 
+    presentation of structured data such as charts, lists, and schedules on webpages.
