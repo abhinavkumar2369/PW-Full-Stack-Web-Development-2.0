@@ -1,0 +1,37 @@
+
+body{
+    background-color: #000000c0;
+    width:90%;
+    margin: auto;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+}
+h1{
+    font-size: 40px;
+}
+section{
+    width: 60%;
+    float: left;
+    margin:20px;
+    
+}
+button{
+    background-color: #4646f9;
+    color: white;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    font-size: 15px;
+    padding:15px;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-style: inherit;
+    border-radius: 4px;
+    font-weight: bold;
+}
+div>img{
+    height: 350px;
+    width: 350px;
+    margin: 15px;
+}
