@@ -1,0 +1,49 @@
+body{
+    margin:0px;
+    background-color: #1e1e1e;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav{
+    background-color: #474444df;
+    width:18vh;
+    height: 100vh;
+    float: left;
+}
+section{
+    position: right;
+}
+nav > img{
+    height: 60px;
+    width: 100%;
+    background-color: aqua;
+}
+nav > a {
+    font-weight: 500;
+    display: block;
+    text-align: center;
+    border-bottom: dashed white 1px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+section {
+    background-color: #1e1e1e;
+    box-sizing: border-box;
+    margin-left:200px;
+    margin-right: 70px;
+    text-align: center;
+    color: white;
+}
+section > h1{
+    color: violet;
+    font-size: 30px;
+}
+section>img{
+    height: 300px;
+    width: 450px;
+}
