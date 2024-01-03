@@ -1,0 +1,39 @@
+body {
+    margin:0;
+    background-color: #242b2e;
+    padding: 0px 150px;
+    font-family: 'Roboto', sans-serif;
+    word-spacing: 1.5px;
+    letter-spacing: 1px;
+}
+
+.head-banner {
+    background-color: #ff6666;
+    padding: 2px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+.section-about {
+    text-align: center;
+}
+
+h1,h2 {
+    color: #e07c24;
+}
+
+p {
+    color: white;
+}
+
+.section-about > img {
+    width: 400px;
+    height: 240px;
+    border-radius: 7px;
+}
+
+.section-about > p {
+    text-align: left;
+}
