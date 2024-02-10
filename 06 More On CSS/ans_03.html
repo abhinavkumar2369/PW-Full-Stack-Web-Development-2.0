@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NavBar</title>
+    <style>
+        nav{
+            background-color: #0808dd54;
+            margin:3px; 
+            padding:15px;
+        }
+        a{
+            padding:12px;
+        }
+        a:hover{
+            background-color: lightpink;
+        }
+        a[href^="home"]{
+            border-style:dotted ;
+        }
+        a[href^="about"]{
+            border-style:groove ;
+        }
+        a[href^="contact"]{
+            border-style:dashed ;
+        }
+        a[href^="blog"]{
+            border-style:outset ;
+        }
+        a[href^="login"]{
+            border-style:solid ;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="home.html">Home</a>
+        <a href="about_us.html">About Us</a>
+        <a href="contact.html">Contact</a>
+        <a href="blog.html">Blog</a>
+        <a href="login.html">Login</a>
+    </nav>
+</body>
+</html>
